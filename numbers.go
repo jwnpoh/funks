@@ -2,7 +2,7 @@
 package funks
 
 // Digit defines arrays for numbers
-type Digit [7]string
+type Digit []string
 
 var (
 	Zero = Digit{
